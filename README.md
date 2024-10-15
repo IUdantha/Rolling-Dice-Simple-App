@@ -1,3 +1,3 @@
-# flutter_application_1
+# Rolling Dice App
 
-A new Flutter project.
+This is a simple app that created using Flutter/Dart. Once you cluce a button that roall a dice and give random value time to time. Use StatefulWidget to build this application.
